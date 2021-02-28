@@ -7,6 +7,7 @@ The main purpose is to sharpen the skills such as SQL and Python and to discover
 
 There will be 5 projects (3 is done). In each project, I will explain the data and (specific) tools used as well as the insights discovered.
 
+
 ### Project 1 - Explore Weather Trends
 
 The project is the introduction of data analysis. In the project, since I was interested whether latitude would make difference in temperature across the cities, I set the topic to be as follows: 
@@ -15,6 +16,7 @@ The project is the introduction of data analysis. In the project, since I was in
 - Data: the historical temperature data of 4 cities (London, Brussels, Victoria, Qiqihar)
 - Tool: SQL, Excel 
 
+
 ### Project 2 - Investigate medical appointments in Brazil
 
 The project goes through the overall process of data analysis, including data extraction, data processing and data visualization. It aims to know the reason and the features that affect the appointment.
@@ -22,6 +24,7 @@ The project goes through the overall process of data analysis, including data ex
 - Topic: _"How many patients made appointments but no show? What are the possible factors and their distributions?"_
 - Data: **No show appointment** in **Kaggle**: https://www.kaggle.com/joniarroba/noshowappointments
 - Tool: Python
+
 
 ### Project 3 - Analyze A/B Test Results
 
@@ -33,5 +36,6 @@ The project put more emphasis on the statistical parts.  The main purpose is to 
 
 
 ### Project 4 - (to be uploaded)
+
 
 ### Project 5 - (to be uploaded)
